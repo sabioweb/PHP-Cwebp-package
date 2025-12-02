@@ -24,3 +24,7 @@ Thumbs.db
 *.tmp
 *.temp
 
+# Project specific
+CHANGELOG.md
+phpunit.xml
+tests/
