@@ -1,4 +1,4 @@
-# sabioweb/webp-converter (تبدیل‌کننده WebP)
+# sabioweb/php-cwebp-package (تبدیل‌کننده WebP)
 
 یک پکیج PHP خالص برای تبدیل تصاویر به فرمت WebP. این پکیج روشی ساده و کارآمد برای تبدیل تصاویر JPEG، PNG، GIF و BMP به فرمت WebP با استفاده از افزونه GD در PHP ارائه می‌دهد.
 
@@ -17,7 +17,7 @@
 نصب از طریق Composer:
 
 ```bash
-composer require sabioweb/webp-converter
+composer require sabioweb/php-cwebp-package
 ```
 
 ## نیازمندی‌ها

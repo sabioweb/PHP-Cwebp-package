@@ -1,5 +1,5 @@
 {
-    "name": "sabioweb/webp-converter",
+    "name": "sabioweb/php-cwebp-package",
     "description": "A pure PHP package for converting images to WebP format",
     "type": "library",
     "keywords": ["webp", "image", "converter", "php", "gd"],
